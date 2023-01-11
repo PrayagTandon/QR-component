@@ -1,0 +1,15 @@
+@media (max-width: 25em) {
+  .content {
+    width: 70%;
+  }
+
+  .text-content {
+    padding: 1.8rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .qr-main {
+    margin-block: 0;
+    height: 100vh;
+  }
+} ;
