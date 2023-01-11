@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Desktop screenshot](<https://github.com/PrayagTandon/QR-component/blob/main/Img/Screenshot-01-Desktop.png>)
 
-![Mobile screenshot](</QR-component/Img/Screenshot-02-Mobile.png>)
+![Mobile screenshot](<https://github.com/PrayagTandon/QR-component/blob/main/Img/Screenshot-02-Mobile.png>)
 
 ### Links
 
