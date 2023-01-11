@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github solution](https://github.com/PrayagTandon/QR-component)
 - Live Site URL: [Deployed project site](https://qr-prayag.netlify.app/)
 
 ## My process
