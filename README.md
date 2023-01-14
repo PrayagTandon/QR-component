@@ -21,13 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop screenshot](</QR-component/Img/Screenshot-01%20(Desktop).png>)
+![Desktop screenshot](/QR-component/Img/Screenshot-01-Desktop.png)
 
-![Mobile screenshot](</QR-component/Img/Screenshot-02%20(Mobile).png>)
+![Mobile screenshot](/QR-component/Img/Screenshot-02-Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github solution](https://github.com/PrayagTandon/QR-component)
 - Live Site URL: [Deployed project site](https://qr-prayag.netlify.app/)
 
 ## My process
